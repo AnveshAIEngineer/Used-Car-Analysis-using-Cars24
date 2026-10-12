@@ -65,26 +65,6 @@ The used car market is influenced by several factors, including brand, fuel type
 - Data Visualization
 - Business Insight Generation
 
-## 📁 Repository Structure
-
-```text
-Cars24-Used-Car-Market-Analysis/
-│
-├── notebooks/
-│   └── used_car_analysis.ipynb
-│
-├── data/
-│   ├── raw_data.csv
-│   └── cleaned_data.csv
-│
-├── visualizations/
-│   └── analysis_charts/
-│
-└── README.md
-```
-
-*Update the filenames and folder structure to match the actual files in your repository.*
-
 ## 🚀 How to Run the Project
 
 1. Clone the repository:
